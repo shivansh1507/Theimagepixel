@@ -28,4 +28,4 @@ For any inquiries or collaborations, you can reach out to Shivansh Sharma via em
 Twitter
 Instagram
 LinkedIn
-Feel free to personalize the content, URLs, and other details to match your actual project. This README will help users understand the purpose of your photography portfolio website and guide potential contributors on how to interact with your Git repository.
+Feel free to personalize the content, URLs, and other details to match your actual project.
