@@ -17,15 +17,6 @@ Home: An introduction to the website with a captivating banner and date informat
 Travel: Highlighting travel experiences with stunning images and accompanying captions.
 Contact: A contact page for anyone interested in getting in touch.
 Setup
-To view the website locally or contribute to it, follow these steps:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/your-repo.git
-Navigate to the repository directory:
-bash
-Copy code
 cd your-repo
 Open the index.html file in a web browser to explore the website.
 Contributing
