@@ -46,7 +46,7 @@ Please ensure that your contributions seamlessly blend with the essence and purp
 Whether you're a photography enthusiast, a fellow artist, or a potential collaborator, don't hesitate to get in touch:
 
 - Email: shivanshsharma1507@gmail.com
-- Social Media: Connect with Shivansh Sharma on [Twitter](https://twitter.com/your-twitter), [Instagram](https://instagram.com/your-instagram), and [LinkedIn](https://linkedin.com/in/your-linkedin).
+- Social Media: Connect with Shivansh Sharma on  [Instagram](https://www.instagram.com/shivanshh_sharmaa/) and [LinkedIn](https://www.linkedin.com/in/shivanshsharma15/).
 
 Feel free to personalize the details to reflect the true essence of your project. Let The ImagePixel's story captivate recruiters and fellow creators alike!
 
